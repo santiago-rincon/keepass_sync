@@ -28,3 +28,11 @@ y en la última línea del archivo escribir
 ```bash 
 @reboot bash PATH_DE_LA_UBICACION_DEL_ARCHIVO/syncKeepass.sh 
 ```
+## Instalación del Plugin KeePassRPC para el navegador (opcional)
+Para instalar este plugin es necesario primerio descargar la siguiente dependencia
+
+- mono-complete `apt install mono-complete`
+
+Posteriormente descargar la última versión del plugin desde el [el sitio oficial de GitHub](https://github.com/kee-org/keepassrpc/releases) (.plgx) y mover el archivo con permisos de administrador a la ruta `/usr/lib/keepass2/Plugins`. 
+
+Finalmente, se debe instalar la extensión para [Chrome](https://chromewebstore.google.com/detail/kee-password-manager/mmhlniccooihdimnnjhamobppdhaolme) o [Firefox](https://addons.mozilla.org/es/firefox/addon/keefox/).
