@@ -36,3 +36,8 @@ Para instalar este plugin es necesario primerio descargar la siguiente dependenc
 Posteriormente descargar la última versión del plugin desde el [el sitio oficial de GitHub](https://github.com/kee-org/keepassrpc/releases) (.plgx) y mover el archivo con permisos de administrador a la ruta `/usr/lib/keepass2/Plugins`. 
 
 Finalmente, se debe instalar la extensión para [Chrome](https://chromewebstore.google.com/detail/kee-password-manager/mmhlniccooihdimnnjhamobppdhaolme) o [Firefox](https://addons.mozilla.org/es/firefox/addon/keefox/).
+
+## Otros Plugins (opcional)
+- [KeeTheme](https://github.com/xatupal/KeeTheme)
+- [KPSync for Google Drive](https://github.com/walterpg/google-drive-sync/)
+- [Yet Another Favicon Downloader](https://github.com/navossoc/KeePass-Yet-Another-Favicon-Downloader)
